@@ -22,7 +22,7 @@
     "url": "https://www.pornhub.com",
     "icon": "https://favicons.githubusercontent.com/www.pornhub.com",
     "slug": "porn-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1736,
     "timeMonth": 1810,
     "timeYear": 1801,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-22": 0
+    }
   },
   {
     "name": "Hacker News",
