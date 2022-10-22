@@ -22,7 +22,7 @@
     "url": "https://www.pornhub.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.pornhub.com.ico",
     "slug": "porn-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "98.35%",
     "uptimeWeek": "99.76%",
@@ -34,6 +34,7 @@
     "timeMonth": 1851,
     "timeYear": 1361,
     "dailyMinutesDown": {
+      "2022-10-22": 0,
       "2022-10-21": 24,
       "2022-09-12": 21,
       "2022-09-05": 50,
