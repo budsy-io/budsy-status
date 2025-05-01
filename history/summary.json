@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 240,
-    "timeWeek": 146,
-    "timeMonth": 115,
+    "time": 107,
+    "timeDay": 137,
+    "timeWeek": 151,
+    "timeMonth": 114,
     "timeYear": 111,
-    "dailyMinutesDown": {
-      "2024-05-01": 26
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PornHub",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1924,
-    "timeDay": 1613,
-    "timeWeek": 1825,
-    "timeMonth": 1901,
+    "time": 1925,
+    "timeDay": 1805,
+    "timeWeek": 1833,
+    "timeMonth": 1885,
     "timeYear": 1861,
     "dailyMinutesDown": {
       "2024-11-11": 21,
@@ -52,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 301,
-    "timeDay": 403,
-    "timeWeek": 354,
-    "timeMonth": 381,
+    "timeDay": 267,
+    "timeWeek": 325,
+    "timeMonth": 363,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2024-12-04": 26,
