@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 135,
-    "timeDay": 76,
-    "timeWeek": 75,
+    "timeDay": 88,
+    "timeWeek": 78,
     "timeMonth": 81,
-    "timeYear": 142,
+    "timeYear": 143,
     "dailyMinutesDown": {
       "2025-08-12": 24,
       "2026-04-12": 53
@@ -25,19 +25,18 @@
     "url": "https://www.pornhub.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.pornhub.com.ico",
     "slug": "porn-hub",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "95.56%",
-    "uptimeWeek": "94.16%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "95.53%",
+    "uptimeWeek": "94.20%",
     "uptimeMonth": "93.35%",
-    "uptimeYear": "97.21%",
-    "time": 3000,
-    "timeDay": 3661,
-    "timeWeek": 3682,
-    "timeMonth": 3631,
-    "timeYear": 3139,
+    "uptimeYear": "97.24%",
+    "time": 3005,
+    "timeDay": 4169,
+    "timeWeek": 3733,
+    "timeMonth": 3657,
+    "timeYear": 3145,
     "dailyMinutesDown": {
-      "2026-04-11": 143,
       "2026-04-12": 188,
       "2026-04-13": 56,
       "2026-04-14": 310,
@@ -102,7 +101,8 @@
       "2026-07-06": 179,
       "2026-07-07": 63,
       "2026-07-08": 140,
-      "2026-07-10": 64
+      "2026-07-10": 64,
+      "2026-07-11": 1
     }
   },
   {
@@ -116,10 +116,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 293,
-    "timeWeek": 224,
-    "timeMonth": 265,
+    "time": 294,
+    "timeDay": 312,
+    "timeWeek": 237,
+    "timeMonth": 267,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2025-10-10": 16
