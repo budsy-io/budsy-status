@@ -25,19 +25,18 @@
     "url": "https://www.pornhub.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.pornhub.com.ico",
     "slug": "porn-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "80.43%",
-    "uptimeWeek": "92.11%",
-    "uptimeMonth": "92.00%",
-    "uptimeYear": "97.22%",
-    "time": 3037,
-    "timeDay": 3430,
-    "timeWeek": 3706,
-    "timeMonth": 3750,
-    "timeYear": 3166,
+    "uptimeDay": "87.14%",
+    "uptimeWeek": "92.25%",
+    "uptimeMonth": "92.01%",
+    "uptimeYear": "97.23%",
+    "time": 3042,
+    "timeDay": 4055,
+    "timeWeek": 3714,
+    "timeMonth": 3751,
+    "timeYear": 3170,
     "dailyMinutesDown": {
-      "2026-04-14": 53,
       "2026-04-15": 304,
       "2026-04-16": 384,
       "2026-04-17": 182,
@@ -103,7 +102,7 @@
       "2026-07-11": 140,
       "2026-07-13": 60,
       "2026-07-14": 316,
-      "2026-07-15": 74
+      "2026-07-15": 75
     }
   },
   {
